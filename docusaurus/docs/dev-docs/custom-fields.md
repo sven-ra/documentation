@@ -187,7 +187,7 @@ export default {
 </details>
 
 :::tip
-The `Input` React component receives several props. The [`ColorPickerInput` file](https://github.com/strapi/strapi/blob/main/packages/plugins/color-picker/admin/src/components/ColorPicker/ColorPickerInput/index.js#L71-L82) in the Strapi codebase gives you an example of how they can be used.
+The `Input` React component receives several props. The [`ColorPickerInput` file](https://github.com/strapi/strapi/blob/main/packages/plugins/color-picker/admin/src/components/ColorPicker/ColorPickerInput/index.js#L77-L86) in the Strapi codebase gives you an example of how they can be used.
 :::
 
 
